@@ -1,4 +1,4 @@
-# my-site
+# my-site Python
 Python 3.10
 Django 3.2.16
 django-simple-captcha 0.5.1
